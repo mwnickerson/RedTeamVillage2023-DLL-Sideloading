@@ -6,3 +6,6 @@ VM requirements:
 * 2 CPUs
 * 4gb RAM
 * 35gb storage
+
+Credentials:
+`labuser:labpassword`

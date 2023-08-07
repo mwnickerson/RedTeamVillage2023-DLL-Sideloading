@@ -1,0 +1,7 @@
+﻿  dllmain.cpp
+     Creating library C:\Users\labuser\Source\Repos\sideload-me\x64\Release\sideload-me.lib and object C:\Users\labuser\Source\Repos\sideload-me\x64\Release\sideload-me.exp
+  Generating code
+  Finished generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  sideload-me.vcxproj -> C:\Users\labuser\Source\Repos\sideload-me\x64\Release\sideload-me.dll

@@ -1,5 +1,6 @@
-# Repo for DLL Sideloading workshop at Red team Village 2023
-*Created and Presented by Matthew Nickerson and Nick Swink*
+# Manually Finding and Exploiting DLL sideLoads
+*Created and Presented by Matthew Nickerson and Nick Swink at Red Team Village 2023*
+
 A workshop on manually finding and exploiting DLL Sideloads in the Windows operating system. 
 
 

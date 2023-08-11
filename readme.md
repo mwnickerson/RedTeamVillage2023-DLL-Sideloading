@@ -1,4 +1,4 @@
-# Hunting and Exploiting DLL sideLoads
+# Hunting and Exploiting DLL Sideloads
 *Created and Presented by Matthew Nickerson and Nick Swink at Red Team Village 2023*
 
 A workshop on manually finding and exploiting DLL Sideloads in the Windows operating system. 
